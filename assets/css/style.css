@@ -13,6 +13,15 @@
   background-size: cover;
 }
 
+.bbtn{
+
+    display: inline-block;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
 
 
 
