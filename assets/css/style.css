@@ -1345,7 +1345,7 @@ a {
     height: 2px;
     width: 50px;
     content: "";
-    background: #1d82ff; }
+    background: black; }
   .heading-border-top.light:before {
     background: rgba(255, 255, 255, 0.7) !important; }
 
@@ -1359,7 +1359,7 @@ a {
   background: rgba(255, 255, 255, 0.7) !important; }
 
 .pb_section {
-  padding: 9em 0;
+  padding: 5em 0;
   position: relative;
   display: block; }
   @media (max-width: 991px) {
