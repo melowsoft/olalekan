@@ -1,4 +1,6 @@
-
+.pb_footer a {
+  color: white
+}
   
   
   .fade-effect {
@@ -50,9 +52,8 @@
 
 .background-wrap {
   position: fixed;
-  z-index: -1000;
   width: 100%;
-  height: 800px;
+  height: 100vh;
   overflow: hidden;
   top: 0;
   left: 0;
